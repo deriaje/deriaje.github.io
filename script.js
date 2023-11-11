@@ -1,6 +1,6 @@
 var audio = new Audio('assets/sentmessage.mp3');
 var contactString = "<div class='social'><a href='mailto:deriandriyana17@gmail.com'> <div class='socialItem'><img class='socialItemI' src='images/gmail.svg' alt=''></div> </a> </a> <a target='_blank' href='http://wa.me/+6287821267229'><div class='socialItem'><img class='socialItemI' src='images/whatsapp.svg' alt=''></div> </a><a href='https://www.linkedin.com/in/deriaje/' target='_blank' rel='noopener noreferrer'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a> </div>";
-var resumeString = "<img src='images/resumeThumbnail.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>Vinayak Resume.pdf</label></div><a href='assets/Vinayak Patil&#39;s Resume.pdf' download='Vinayak_Patil_Resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
+var resumeString = "<img src='images/resumeThumbnail.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>Deri Resume.pdf</label></div><a href='assets/CV Deri Andriyana.pdf' download='Deri_Andriyana_Resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
 var addressString = "<address>Bandung<br>Jawa Barat<br>Indonesia</address>";
 function startFunction() {
     setLastSeen();
