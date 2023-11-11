@@ -102,7 +102,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(contactString);
             break;
         case "projects":
-            sendTextMessage("You want to check my projects? Then just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/Vinayak-09'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
+            sendTextMessage("You want to check my projects? Then just jump into my Notion Account.<br><br><div class='social'><a target='_blank' href='https://www.notion.so/Deri-Andriyana-Juhana-Portfolio-3d33e3745e164407b5975361868c31e7?pvs=4'> <div class='socialItem'><img class='socialItemI' src='images/notion.svg' alt=''></div> </a></div>");
             break;
         case "new":
             sendTextMessage(addressString);
