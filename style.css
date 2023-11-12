@@ -25,12 +25,14 @@ nav{
 
 
 .dpimg {
-  width: 5%; /* mengatur lebar gambar menjadi 5% dari lebar kontainer */
-  height: auto; /* mengatur tinggi gambar menjadi proporsional dengan lebar */
-  max-width: 100px; /* mengatur lebar maksimal gambar menjadi 100px */
-  max-height: 100px; /* mengatur tinggi maksimal gambar menjadi 100px */
-  object-fit: cover; /* mengatur gambar agar menutupi seluruh kontainer tanpa memotong atau mengosongkan bagian-bagiannya */
+  cursor: pointer;
+  border-radius: 50%; /* mengubah nilai ini menjadi 50% */
+  width: 100px; /* mengubah nilai ini menjadi 100px */
+  height: 100px; /* mengubah nilai ini menjadi 100px */
+  margin: auto 0px;
+  margin-left: 10px;
 }
+
 
 
 
