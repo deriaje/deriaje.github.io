@@ -24,14 +24,13 @@ nav{
 }
 
 
-.dpimg{
-    cursor: pointer;
-    border-radius: 100%;
-    width: 5%;
-    height: 5%;
-    height: auto;
-    margin: auto 0px;
-    margin-left: 10px;
+.dpimg {
+  cursor: pointer;
+  border-radius: 50%; /* mengubah nilai ini menjadi 50% */
+  width: 100px; /* mengubah nilai ini menjadi 100px */
+  height: 100px; /* mengubah nilai ini menjadi 100px */
+  margin: auto 0px;
+  margin-left: 10px;
 }
 
 .navbar .personalInfo{
